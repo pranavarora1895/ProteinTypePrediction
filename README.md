@@ -1,4 +1,4 @@
-# Protein Type Prediction
+# Prediction of Membrane Protein Types
 
 > ### Members:
 > #### 1. Parham Hajishafiezahramini (Student #: 202199788)
