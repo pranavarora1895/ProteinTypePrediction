@@ -1,8 +1,8 @@
 # Prediction of Membrane Protein Types
 
 > ### Members:
-> #### 1. Parham Hajishafiezahramini (Student #: 202199788)
-> #### 2. Pranav Arora (Student #: 202286040)
+> #### 1. Parham Hajishafiezahramini
+> #### 2. Pranav Arora
 
 ### <center> Project at a glance 
 >In this project, we have used a real dataset of membrane proteins with five different classifications(Labels). The Initial dataset consists of 2059 and 2625 (train and test dataset) membrane proteins' amino acids sequences. We concatenated the test and train dataset and generated 4684 membrane protein sequences. Since protein sequences are just a series of alphabets (amino acid abbreviations), we implemented several procedures described below.
